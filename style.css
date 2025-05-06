@@ -1,0 +1,76 @@
+body{
+    background-image: url(background.jpg);
+}
+
+
+
+.contenedor{
+    font-family: "Montserrat", sans-serif;
+    min-height: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 82px;
+    flex-wrap: wrap;
+    box-shadow: gray;
+    border-radius: 50px;
+}
+
+
+.box1{
+font-family: "Montserrat", sans-serif;
+height: 350px;
+width: 1150px;
+background-color: whitesmoke;
+text-align: center;
+padding-top: 250px;
+font-size: 90px;
+margin-bottom: 20px;
+border-radius: 20px;
+}
+
+.box2{
+font-family: "Montserrat", sans-serif;
+height: 100px;
+width: 225px;
+background-color: whitesmoke;
+text-align: center;
+padding-top: 250px;
+font-size: 20px;
+margin-bottom: 20px;
+border-radius: 20px;
+}
+.box3{
+    font-family: "Montserrat", sans-serif;
+    height: 100px;
+    width: 225px;
+    background-color: whitesmoke;
+    text-align: center;
+    padding-top: 250px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    }
+    .box4{
+        font-family: "Montserrat", sans-serif;
+        height: 100px;
+        width: 225px;
+        background-color: whitesmoke;
+        text-align: center;
+        padding-top: 250px;
+        font-size: 20px;
+        margin-bottom: 20px;
+        border-radius: 20px;
+        }
+        .box5{
+            font-family: "Montserrat", sans-serif;
+            height: 100px;
+            width: 225px;
+            background-color: whitesmoke;
+            text-align: center;
+            padding-top: 250px;
+            font-size: 20px;
+            margin-bottom: 20px;
+            border-radius: 20px;
+            }
