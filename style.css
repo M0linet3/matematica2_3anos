@@ -21,13 +21,17 @@ body{
 .box1{
 font-family: "Montserrat", sans-serif;
 height: 350px;
-width: 1150px;
+width: 1700px;
 background-color: whitesmoke;
 text-align: center;
 padding-top: 250px;
 font-size: 90px;
 margin-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;
 border-radius: 20px;
+align-items: center;
+justify-content: center;
 }
 
 .box2{
