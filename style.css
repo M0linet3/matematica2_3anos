@@ -37,7 +37,7 @@ justify-content: center;
 .box2{
 font-family: "Montserrat", sans-serif;
 height: 100px;
-width: 225px;
+width: 350px;
 background-color: whitesmoke;
 text-align: center;
 padding-top: 250px;
@@ -48,7 +48,7 @@ border-radius: 20px;
 .box3{
     font-family: "Montserrat", sans-serif;
     height: 100px;
-    width: 225px;
+    width: 350px;
     background-color: whitesmoke;
     text-align: center;
     padding-top: 250px;
@@ -59,7 +59,7 @@ border-radius: 20px;
     .box4{
         font-family: "Montserrat", sans-serif;
         height: 100px;
-        width: 225px;
+        width: 350px;
         background-color: whitesmoke;
         text-align: center;
         padding-top: 250px;
@@ -70,7 +70,7 @@ border-radius: 20px;
         .box5{
             font-family: "Montserrat", sans-serif;
             height: 100px;
-            width: 225px;
+            width: 350px;
             background-color: whitesmoke;
             text-align: center;
             padding-top: 250px;
